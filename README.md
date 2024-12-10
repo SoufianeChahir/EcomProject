@@ -50,6 +50,19 @@ configuration dynamique des routes de la gateway :
 ![image](https://github.com/user-attachments/assets/2e3648b2-abaa-4d4e-b606-e0deb819379b)
 
 
+![image](https://github.com/user-attachments/assets/b319366e-c078-408f-8e19-2f704df6dd46)
+
+
+
+![image](https://github.com/user-attachments/assets/8281cf8c-1ef5-419d-a6ed-c19687697ced)
+
+
+
+![image](https://github.com/user-attachments/assets/0b2e8053-5fac-441e-95ef-a65390f12537)
+
+
+
+
 
 # EcomWebAppl
 
